@@ -1,9 +1,0 @@
-{
-  "/admin/ai/page": "app/admin/ai/page.js",
-  "/announcements/page": "app/announcements/page.js",
-  "/api/chatbot/route": "app/api/chatbot/route.js",
-  "/documents/page": "app/documents/page.js",
-  "/login/page": "app/login/page.js",
-  "/page": "app/page.js",
-  "/settings/page": "app/settings/page.js"
-}
